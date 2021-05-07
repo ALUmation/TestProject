@@ -1,0 +1,12 @@
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\bin\Debug\net5.0\WebApplicationBlazorWATest.Shared.deps.json
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\bin\Debug\net5.0\WebApplicationBlazorWATest.Shared.dll
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\bin\Debug\net5.0\ref\WebApplicationBlazorWATest.Shared.dll
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\bin\Debug\net5.0\WebApplicationBlazorWATest.Shared.pdb
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.csprojAssemblyReference.cache
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.AssemblyInfoInputs.cache
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.AssemblyInfo.cs
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.dll
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\ref\WebApplicationBlazorWATest.Shared.dll
+C:\Users\AFU\Desktop\DEV\Software\VS\WebApplicationBlazorWATest\Shared\obj\Debug\net5.0\WebApplicationBlazorWATest.Shared.pdb
